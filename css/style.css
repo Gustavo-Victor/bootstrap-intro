@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.marginAndPadding{
+    padding: 1rem 0 1rem 1rem;
+}
+
+.about img{
+    margin-bottom: 1rem; 
+}
+
+.service-img{
+    border-radius: 20px;
+    width: 100%;
+    max-width: 200px;
+    margin: 2rem 0;
+}
+
+.left, .right{
+    margin-top: 0.7rem;
+}
